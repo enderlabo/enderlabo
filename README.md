@@ -15,6 +15,6 @@ struct ElderLab: Codable, Identifiable {
                                     'Code': 'Swift', 'Tools': 'SwiftUI, 
                                     'CoreData', 'CoreText', 'CoreAnimations', 
                                     'CocoaPods',
-                                    'Experience: '1y' < iOS Mobile']
+                                    'Experience': '1y' < 'iOS Mobile']
 } 
 ```
