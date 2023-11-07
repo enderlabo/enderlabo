@@ -16,7 +16,7 @@ struct ElderLab: Codable, Identifiable {
     "Code": "Swift", 
     "Tools": "UIKit", "SwiftUI", "CoreData", 
       "CoreText", "CoreAnimations", 
-      "CocoaPods", "Carthage", "RXSwift",
+      "CocoaPods", "Carthage", "RXSwift", "Combine",
       "Pattern Architecture": "VIPER", "MVC", "MVVC", "MVP",
       "Pattern Design": "Singlenton, Factory, Builder, Abstract Factory",
     "Experience": "3y", "iOS Dev"]
