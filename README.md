@@ -5,7 +5,7 @@ const ElderLab = {
   technologies: Web,
   code: [Javascript, Typescript, HTML, CSS],
   tools: [ Node, React, Redux, Firebase],
-  experience: [3y > Web Front-End]
+  experience: [5y > Web Front-End]
 } 
 ```
 
