@@ -12,13 +12,13 @@ const ElderLab = {
 ```swift
 struct ElderLab: Codable, Identifiable {
   var knowledges: [String: String] = [
-    "Tecnologies": "iOS Mobile",
+    "Tecnologies": "iOS Dev",
     "Code": "Swift", 
     "Tools": "UIKit", "SwiftUI", "CoreData", 
       "CoreText", "CoreAnimations", 
       "CocoaPods", "Carthage", "RXSwift",
-      "Pattern Architecture": "VIPER",
-      "Pattern Design": "MVC", "MVVC",
-    "Experience": "1y" < "iOS Mobile"]
+      "Pattern Architecture": "VIPER", "MVC", "MVVC", "MVP",
+      "Pattern Design": "Singlenton, Factory, Builder, Abstract Factory",
+    "Experience": "3y", "iOS Dev"]
 } 
 ```
